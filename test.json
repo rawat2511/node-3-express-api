@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "author": "Erskine Kubu",
+        "book_name": "Multi-channelled impactful groupware",
+        "pages": 911,
+        "published_year": 1993
+    },
+    {
+        "id": 2,
+        "author": "Nonie Boase",
+        "book_name": "Digitized homogeneous leverage",
+        "pages": 777,
+        "published_year": 2011
+    },
+    {
+        "id": 3,
+        "author": "Shani Bagster",
+        "book_name": "Realigned directional architecture",
+        "pages": 660,
+        "published_year": 2010
+    },
+    {
+        "id": 4,
+        "author": "Tove Mcmanaman",
+        "book_name": "Sharable client-server matrices",
+        "pages": 376,
+        "published_year": 2003
+    },
+    {
+        "id": 5,
+        "author": "Amandy Pearcehouse",
+        "book_name": "Exclusive clear-thinking solution",
+        "pages": 379,
+        "published_year": 1987
+    },
+    {
+        "id": 6,
+        "author": "Gerri Nind",
+        "book_name": "Inverse context-sensitive info-mediaries",
+        "pages": 888,
+        "published_year": 1987
+    },
+    {
+        "id": 7,
+        "author": "Johny Tearney",
+        "book_name": "Team-oriented web-enabled instruction set",
+        "pages": 797,
+        "published_year": 1994
+    },
+    {
+        "id": 8,
+        "author": "Sigmund Brasener",
+        "book_name": "Object-based zero administration solution",
+        "pages": 538,
+        "published_year": 1969
+    },
+    {
+        "id": 9,
+        "author": "Jess Clayson",
+        "book_name": "Organic composite model",
+        "pages": 678,
+        "published_year": 2003
+    },
+    {
+        "id": 10,
+        "author": "Leroy Priestman",
+        "book_name": "Intuitive 4th generation model",
+        "pages": 789,
+        "published_year": 2006
+    },
+    {
+        "id": 11,
+        "author": "Yvonne Janisson",
+        "book_name": "Stand-alone 3rd generation approach",
+        "pages": 341,
+        "published_year": 2007
+    },
+    {
+        "id": 12,
+        "author": "Mae Physick",
+        "book_name": "Progressive systematic approach",
+        "pages": 202,
+        "published_year": 2011
+    },
+    {
+        "id": 13,
+        "author": "Bonita Dalglish",
+        "book_name": "Function-based modular info-mediaries",
+        "pages": 505,
+        "published_year": 2001
+    },
+    {
+        "id": 14,
+        "author": "Husain Shorthill",
+        "book_name": "Multi-lateral solution-oriented instruction set",
+        "pages": 418,
+        "published_year": 2012
+    },
+    {
+        "id": 15,
+        "author": "Casper Nashe",
+        "book_name": "Realigned scalable customer loyalty",
+        "pages": 220,
+        "published_year": 1996
+    },
+    {
+        "id": 16,
+        "author": "Evanne Alam",
+        "book_name": "Stand-alone needs-based challenge",
+        "pages": 997,
+        "published_year": 2009
+    },
+    {
+        "id": 17,
+        "author": "Aleta Archard",
+        "book_name": "Compatible context-sensitive algorithm",
+        "pages": 394,
+        "published_year": 1998
+    },
+    {
+        "id": 18,
+        "author": "Penelopa Betjes",
+        "book_name": "Operative systemic software",
+        "pages": 444,
+        "published_year": 2005
+    },
+    {
+        "id": 19,
+        "author": "Madel Llewellyn",
+        "book_name": "Right-sized mobile algorithm",
+        "pages": 451,
+        "published_year": 1999
+    },
+    {
+        "id": 20,
+        "author": "Antonie Gladman",
+        "book_name": "Mandatory homogeneous strategy",
+        "pages": 940,
+        "published_year": 2004
+    },
+    {
+        "id": 21,
+        "author": "Laraine Tooby",
+        "book_name": "Up-sized foreground open system",
+        "pages": 572,
+        "published_year": 1993
+    },
+    {
+        "id": 22,
+        "author": "Veronika Oaks",
+        "book_name": "Triple-buffered content-based hub",
+        "pages": 809,
+        "published_year": 2008
+    },
+    {
+        "id": 23,
+        "author": "Dell Bubbings",
+        "book_name": "Networked multimedia process improvement",
+        "pages": 519,
+        "published_year": 1994
+    },
+    {
+        "id": 24,
+        "author": "Fina Tooby",
+        "book_name": "Centralized solution-oriented customer loyalty",
+        "pages": 341,
+        "published_year": 1999
+    },
+    {
+        "id": 25,
+        "author": "Mitzi Louis",
+        "book_name": "Universal zero defect pricing structure",
+        "pages": 988,
+        "published_year": 2010
+    },
+    {
+        "id": 26,
+        "author": "Caressa Spriggs",
+        "book_name": "Programmable radical core",
+        "pages": 247,
+        "published_year": 2010
+    },
+    {
+        "id": 27,
+        "author": "Alasteir Melby",
+        "book_name": "Diverse systemic knowledge user",
+        "pages": 330,
+        "published_year": 1997
+    },
+    {
+        "id": 28,
+        "author": "Frederick Insworth",
+        "book_name": "Fundamental bandwidth-monitored infrastructure",
+        "pages": 870,
+        "published_year": 1994
+    },
+    {
+        "id": 29,
+        "author": "Bonnee Spaight",
+        "book_name": "Streamlined transitional array",
+        "pages": 617,
+        "published_year": 2010
+    },
+    {
+        "id": 30,
+        "author": "Chiquita Rountree",
+        "book_name": "Face to face 6th generation secured line",
+        "pages": 881,
+        "published_year": 2010
+    },
+    {
+        "id": 31,
+        "author": "Jannel De Biasio",
+        "book_name": "Reactive encompassing contingency",
+        "pages": 400,
+        "published_year": 2001
+    },
+    {
+        "id": 32,
+        "author": "Noni Gadsby",
+        "book_name": "Intuitive modular architecture",
+        "pages": 337,
+        "published_year": 2004
+    },
+    {
+        "id": 33,
+        "author": "Nicolais Ravilus",
+        "book_name": "Focused fresh-thinking function",
+        "pages": 749,
+        "published_year": 2011
+    },
+    {
+        "id": 34,
+        "author": "Jerrilyn Biddulph",
+        "book_name": "Re-contextualized context-sensitive implementation",
+        "pages": 234,
+        "published_year": 2003
+    },
+    {
+        "id": 35,
+        "author": "Tedie Kleinber",
+        "book_name": "Integrated multi-tasking open architecture",
+        "pages": 922,
+        "published_year": 2010
+    },
+    {
+        "id": 36,
+        "author": "Lanette Dodridge",
+        "book_name": "User-centric bi-directional Graphic Interface",
+        "pages": 297,
+        "published_year": 1988
+    },
+    {
+        "id": 37,
+        "author": "Carroll Sinott",
+        "book_name": "Multi-channelled analyzing capability",
+        "pages": 854,
+        "published_year": 2011
+    },
+    {
+        "id": 38,
+        "author": "Winfred Commusso",
+        "book_name": "Synchronised user-facing infrastructure",
+        "pages": 987,
+        "published_year": 1967
+    },
+    {
+        "id": 39,
+        "author": "Bryna Armsden",
+        "book_name": "Digitized national knowledge base",
+        "pages": 610,
+        "published_year": 2012
+    },
+    {
+        "id": 40,
+        "author": "Riki Abbotson",
+        "book_name": "Triple-buffered interactive matrix",
+        "pages": 643,
+        "published_year": 1998
+    },
+    {
+        "id": 41,
+        "author": "Dean Althrop",
+        "book_name": "Object-based multimedia hub",
+        "pages": 541,
+        "published_year": 1966
+    },
+    {
+        "id": 42,
+        "author": "Hobie Djekovic",
+        "book_name": "Streamlined encompassing portal",
+        "pages": 335,
+        "published_year": 1997
+    },
+    {
+        "id": 43,
+        "author": "Bethanne Tuny",
+        "book_name": "Enhanced high-level function",
+        "pages": 901,
+        "published_year": 1988
+    },
+    {
+        "id": 44,
+        "author": "Janeta Carstairs",
+        "book_name": "Face to face regional circuit",
+        "pages": 734,
+        "published_year": 1989
+    },
+    {
+        "id": 45,
+        "author": "Camila Fenny",
+        "book_name": "Proactive content-based initiative",
+        "pages": 549,
+        "published_year": 1993
+    },
+    {
+        "id": 46,
+        "author": "Findley Vasiltsov",
+        "book_name": "Organic foreground parallelism",
+        "pages": 560,
+        "published_year": 2004
+    },
+    {
+        "id": 47,
+        "author": "Dasha Venditto",
+        "book_name": "Inverse optimal leverage",
+        "pages": 384,
+        "published_year": 1995
+    },
+    {
+        "id": 48,
+        "author": "Sibby Waryk",
+        "book_name": "Adaptive didactic hub",
+        "pages": 279,
+        "published_year": 1987
+    },
+    {
+        "id": 49,
+        "author": "Monah Slaymaker",
+        "book_name": "Open-architected contextually-based knowledge user",
+        "pages": 372,
+        "published_year": 1994
+    },
+    {
+        "id": 50,
+        "author": "Corbett Reeds",
+        "book_name": "Extended empowering application",
+        "pages": 644,
+        "published_year": 2012
+    },
+    {
+        "id": 51,
+        "author": "Silvio Hallett",
+        "book_name": "Operative user-facing task-force",
+        "pages": 515,
+        "published_year": 2001
+    },
+    {
+        "id": 52,
+        "author": "Ikey Gynne",
+        "book_name": "Object-based dedicated benchmark",
+        "pages": 201,
+        "published_year": 1998
+    },
+    {
+        "id": 53,
+        "author": "Misty Epton",
+        "book_name": "Extended incremental complexity",
+        "pages": 819,
+        "published_year": 2009
+    },
+    {
+        "id": 54,
+        "author": "Charin Freire",
+        "book_name": "Integrated bifurcated capability",
+        "pages": 879,
+        "published_year": 2011
+    },
+    {
+        "id": 55,
+        "author": "Dagmar Kropach",
+        "book_name": "Team-oriented multi-tasking contingency",
+        "pages": 904,
+        "published_year": 2007
+    },
+    {
+        "id": 56,
+        "author": "Eldredge Bamb",
+        "book_name": "Distributed discrete moratorium",
+        "pages": 315,
+        "published_year": 1999
+    },
+    {
+        "id": 57,
+        "author": "Krishna Uren",
+        "book_name": "Cross-platform analyzing moderator",
+        "pages": 543,
+        "published_year": 2009
+    },
+    {
+        "id": 58,
+        "author": "Bennie Witty",
+        "book_name": "Phased non-volatile application",
+        "pages": 738,
+        "published_year": 2005
+    },
+    {
+        "id": 59,
+        "author": "Kalila Brandin",
+        "book_name": "Distributed analyzing framework",
+        "pages": 897,
+        "published_year": 2011
+    },
+    {
+        "id": 60,
+        "author": "Elsi O'Brallaghan",
+        "book_name": "Cloned bi-directional task-force",
+        "pages": 670,
+        "published_year": 2007
+    },
+    {
+        "id": 61,
+        "author": "Lauralee Dillow",
+        "book_name": "Business-focused encompassing support",
+        "pages": 813,
+        "published_year": 1988
+    },
+    {
+        "id": 62,
+        "author": "Danette Waddell",
+        "book_name": "Programmable national task-force",
+        "pages": 735,
+        "published_year": 1999
+    },
+    {
+        "id": 63,
+        "author": "Chere Ballintyne",
+        "book_name": "Organic system-worthy flexibility",
+        "pages": 988,
+        "published_year": 2000
+    },
+    {
+        "id": 64,
+        "author": "Briney McArley",
+        "book_name": "De-engineered background monitoring",
+        "pages": 821,
+        "published_year": 2002
+    },
+    {
+        "id": 65,
+        "author": "Thaddeus McCann",
+        "book_name": "Total dedicated service-desk",
+        "pages": 999,
+        "published_year": 2007
+    },
+    {
+        "id": 66,
+        "author": "Weider Le Gall",
+        "book_name": "Pre-emptive 4th generation open architecture",
+        "pages": 903,
+        "published_year": 1985
+    },
+    {
+        "id": 67,
+        "author": "Sarajane Barensen",
+        "book_name": "Triple-buffered analyzing firmware",
+        "pages": 733,
+        "published_year": 1993
+    },
+    {
+        "id": 68,
+        "author": "Carissa Duerden",
+        "book_name": "Enhanced contextually-based projection",
+        "pages": 769,
+        "published_year": 1998
+    },
+    {
+        "id": 69,
+        "author": "Genevra Colnet",
+        "book_name": "Robust disintermediate matrices",
+        "pages": 707,
+        "published_year": 2002
+    },
+    {
+        "id": 70,
+        "author": "Linea Skypp",
+        "book_name": "De-engineered fresh-thinking pricing structure",
+        "pages": 980,
+        "published_year": 1992
+    },
+    {
+        "id": 71,
+        "author": "Veradis Le Fevre",
+        "book_name": "Sharable full-range conglomeration",
+        "pages": 380,
+        "published_year": 1994
+    },
+    {
+        "id": 72,
+        "author": "Ephraim Vidloc",
+        "book_name": "Mandatory maximized throughput",
+        "pages": 639,
+        "published_year": 2002
+    },
+    {
+        "id": 73,
+        "author": "Sile Twitchings",
+        "book_name": "Managed discrete access",
+        "pages": 417,
+        "published_year": 2003
+    },
+    {
+        "id": 74,
+        "author": "Danya Nisot",
+        "book_name": "Object-based attitude-oriented capability",
+        "pages": 635,
+        "published_year": 1987
+    },
+    {
+        "id": 75,
+        "author": "Hadley Revey",
+        "book_name": "Progressive directional Graphic Interface",
+        "pages": 540,
+        "published_year": 2004
+    },
+    {
+        "id": 76,
+        "author": "Tyler Bantham",
+        "book_name": "Networked 24 hour concept",
+        "pages": 521,
+        "published_year": 2004
+    },
+    {
+        "id": 77,
+        "author": "Alex Mauser",
+        "book_name": "Ergonomic well-modulated encoding",
+        "pages": 862,
+        "published_year": 1986
+    },
+    {
+        "id": 78,
+        "author": "Hugh Wardlow",
+        "book_name": "Team-oriented scalable internet solution",
+        "pages": 931,
+        "published_year": 2005
+    },
+    {
+        "id": 79,
+        "author": "Luther Ripper",
+        "book_name": "Triple-buffered stable synergy",
+        "pages": 819,
+        "published_year": 1989
+    },
+    {
+        "id": 80,
+        "author": "Stacie Bedell",
+        "book_name": "Universal secondary extranet",
+        "pages": 840,
+        "published_year": 1993
+    },
+    {
+        "id": 81,
+        "author": "Coop Padilla",
+        "book_name": "Grass-roots client-driven frame",
+        "pages": 417,
+        "published_year": 1993
+    },
+    {
+        "id": 82,
+        "author": "Helli Jeanequin",
+        "book_name": "Organic composite forecast",
+        "pages": 729,
+        "published_year": 2003
+    },
+    {
+        "id": 83,
+        "author": "Isabella Gallehock",
+        "book_name": "Intuitive 24/7 time-frame",
+        "pages": 404,
+        "published_year": 2006
+    },
+    {
+        "id": 84,
+        "author": "Gates Listone",
+        "book_name": "Enhanced even-keeled middleware",
+        "pages": 400,
+        "published_year": 1997
+    },
+    {
+        "id": 85,
+        "author": "Clark Hartwell",
+        "book_name": "Enterprise-wide multi-state task-force",
+        "pages": 335,
+        "published_year": 1995
+    },
+    {
+        "id": 86,
+        "author": "Humfried Iddiens",
+        "book_name": "Multi-tiered well-modulated capability",
+        "pages": 360,
+        "published_year": 2010
+    },
+    {
+        "id": 87,
+        "author": "Rachael Tomasini",
+        "book_name": "Future-proofed encompassing success",
+        "pages": 387,
+        "published_year": 2003
+    },
+    {
+        "id": 88,
+        "author": "Rubetta Faire",
+        "book_name": "Ameliorated systematic extranet",
+        "pages": 820,
+        "published_year": 2004
+    },
+    {
+        "id": 89,
+        "author": "Agatha Furzey",
+        "book_name": "Cloned uniform collaboration",
+        "pages": 560,
+        "published_year": 2009
+    },
+    {
+        "id": 90,
+        "author": "Gar Goodlett",
+        "book_name": "Optional exuding superstructure",
+        "pages": 215,
+        "published_year": 2013
+    },
+    {
+        "id": 91,
+        "author": "Tedmund Mineghelli",
+        "book_name": "Enhanced cohesive core",
+        "pages": 700,
+        "published_year": 2004
+    },
+    {
+        "id": 92,
+        "author": "Corrina Febre",
+        "book_name": "Total directional middleware",
+        "pages": 605,
+        "published_year": 2001
+    },
+    {
+        "id": 93,
+        "author": "Margaret Eglin",
+        "book_name": "Virtual secondary protocol",
+        "pages": 310,
+        "published_year": 2007
+    },
+    {
+        "id": 94,
+        "author": "Belle Franken",
+        "book_name": "Extended well-modulated portal",
+        "pages": 344,
+        "published_year": 2005
+    },
+    {
+        "id": 95,
+        "author": "Rasia Trigwell",
+        "book_name": "Cross-platform stable implementation",
+        "pages": 923,
+        "published_year": 2010
+    },
+    {
+        "id": 96,
+        "author": "Naomi Cund",
+        "book_name": "Function-based even-keeled throughput",
+        "pages": 632,
+        "published_year": 1987
+    },
+    {
+        "id": 97,
+        "author": "Fidole Gillan",
+        "book_name": "Adaptive clear-thinking info-mediaries",
+        "pages": 236,
+        "published_year": 2004
+    },
+    {
+        "id": 98,
+        "author": "Adamo Stanislaw",
+        "book_name": "Versatile methodical challenge",
+        "pages": 261,
+        "published_year": 1990
+    },
+    {
+        "id": 99,
+        "author": "Raffarty Minchinton",
+        "book_name": "Pre-emptive high-level benchmark",
+        "pages": 647,
+        "published_year": 2009
+    },
+    {
+        "id": 100,
+        "author": "Robinette Attersoll",
+        "book_name": "User-centric local emulation",
+        "pages": 792,
+        "published_year": 2012
+    }
+]
